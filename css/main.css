@@ -1,0 +1,59 @@
+.logo {
+    float: left;
+    width: 108px;
+    height: 124px;
+}
+
+.title-box {
+    float: right;
+    padding: 10px;
+    text-align: right;
+}
+
+.portfolio-full-name {
+    font-size: 2.5em;
+    font-weight: 200;
+}
+
+.portfolio-sub-title {
+    font-size: 1em;
+}
+
+.line {
+    background-color: #7d97ad;
+    height: 3px;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.featured-work {
+    color: #7d97ad;
+    font-weight: 300;
+    font-size: 2rem;
+    margin-top: 15px;
+}
+
+.project-image {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.project-name {
+    color: #2d3c49;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.project-url {
+    text-decoration: none;
+    color: #2d3c49;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #2b4459;
+}
+
